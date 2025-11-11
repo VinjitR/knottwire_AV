@@ -1,5 +1,23 @@
+/*
+KnottWire is a malware detection and prevention tool that uses ClamAV signatures to scan files and directories.
+*/
+
+/*
+Author: Vinjit Regulagedda
+Version: 1.0.0
+Date: 2025-11-11
+License: MIT
+Copyright: 2025 KnottWire
+*/
+
+/*
+Package main is the main package for the KnottWire application.
+*/
 package main
 
+/*
+Import the necessary packages.
+*/
 import (
 	"bufio"
 	"encoding/json"

@@ -1,2 +1,4 @@
 signatures/signatures.jsonl
 knottwire.exe
+cmd/
+internal/
